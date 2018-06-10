@@ -47,7 +47,5 @@ footer{
   font-size: 11px;
   color:white;
   background-color: dimgray;
-}
-footer ul li{
-  display: inline-block;
+  text-align: left;
 }
